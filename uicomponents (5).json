@@ -1,0 +1,63 @@
+[
+  {
+    "comment": "",
+    "moduleNumber": 1,
+    "cranes": [
+      {
+        "craneNumber": 1,
+        "racks": [
+          {
+            "rackNumber": 1,
+            "sizeX": 1,
+            "sizeY": 1,
+            "sizeZ": 1,
+            "blockedPositions": [],
+            "levelHeights": [
+              1800
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "comment": "",
+    "moduleNumber": 2,
+    "cranes": [
+      {
+        "craneNumber": 1,
+        "racks": [
+          {
+            "rackNumber": 1,
+            "sizeX": 1,
+            "sizeY": 1,
+            "sizeZ": 1,
+            "blockedPositions": [],
+            "levelHeights": [
+              1800
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "comment": "",
+    "moduleNumber": 0,
+    "cranes": [
+      {
+        "craneNumber": 0,
+        "racks": [
+          {
+            "rackNumber": 0,
+            "sizeX": 0,
+            "sizeY": 0,
+            "sizeZ": 0,
+            "blockedPositions": [],
+            "levelHeights": []
+          }
+        ]
+      }
+    ]
+  }
+]
